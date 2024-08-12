@@ -10,9 +10,10 @@ Este DFA especifica mediante el archivo de texto:
 
 # Guia De Implementación  
   Una vez dentro de nuestro Sistema Operativo (Kali Linux) para este caso, haremos lo siguiente  
-  1. Presionamos los comandos Ctrl + alt + T (Para abrir una nueva terminal  
+  1. Presionamos los comandos Ctrl + alt + T (Para abrir una nueva terminal)  
   2. escribimos los comando nano 'nombre del archivo' (en este caso usaremos nano dfa.c
-  3. se nos abrira un editor de texto dentro del cual debemos copiar el codigo que se encuentra dentro del archivo dfa.c (este archivo se encuentra dentro de los documentos de este repositorio)  
+  3. se nos abrira un editor de texto dentro del cual debemos copiar el codigo que se encuentra dentro del archivo dfa.c (este archivo se encuentra dentro de los documentos de este repositorio)
+  4. debido a la limitacion de comando de Ctrl + c y Ctrl + v (para copiar y pegar respectivamente) se recomienda seleccionar el codigo del archivo dfa.c de este repositorio manteniendo presionando click izquierdo 
 
 # Archivo De Configuración
 El archivo de configuración debe estar dado de la siguiente manera:
