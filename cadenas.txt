@@ -1,0 +1,8 @@
+cadenas ejemplo:
+cadenas aceptadas:
+abab
+
+cadenas ejemplo1:
+cadenas aceptadas:
+aba
+abababa
