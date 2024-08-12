@@ -19,20 +19,20 @@ Las siguientes líneas: transiciones en el formato estado_actual,símbolo,estado
 
 # Ejemplo Archivo de Configuración
 
-q0,q1,q2,q3
-a,b
-q0
-q3
-q0,a,q1
-q1,b,q2
-q2,a,q3
-q3,b,q0
+q0,q1,q2,q3  
+a,b  
+q0  
+q3  
+q0,a,q1  
+q1,b,q2  
+q2,a,q3  
+q3,b,q0  
 
 # Ejemplo de ejecución 
 
-Ingrese el nombre del archivo de configuración: ejemplo1.txt
-Ingrese la cadena de entrada: aba
-
+Ingrese el nombre del archivo de configuración: ejemplo1.txt  
+Ingrese la cadena de entrada: aba  
+  
 Resultado: La cadena fue aceptada.
 
 
