@@ -11,11 +11,11 @@ Este DFA especifica mediante el archivo de texto:
 # Archivo De Configuración
 El archivo de configuración debe estar dado de la siguiente manera:
 
-Primera línea: conjunto de estados (Q), separados por comas.//
-Segunda línea: alfabeto (Σ), separado por comas.//
-Tercera línea: estado inicial (q0).//
-Cuarta línea: estados de aceptación (F), separados por comas.//
-Las siguientes líneas: transiciones en el formato estado_actual,símbolo,estado_siguiente.//
+Primera línea: conjunto de estados (Q), separados por comas.
+Segunda línea: alfabeto (Σ), separado por comas.
+Tercera línea: estado inicial (q0).
+Cuarta línea: estados de aceptación (F), separados por comas.
+Las siguientes líneas: transiciones en el formato estado_actual,símbolo,estado_siguiente.
 
 # Ejemplo Archivo de Configuración
 
