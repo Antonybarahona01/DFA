@@ -33,14 +33,14 @@ El archivo de configuración debe seguir el siguiente formato:
 
 # Ejemplo de Archivo de Configuración
 
-q0,q1,q2,q3
-a,b
-q0
-q3
-q0,a,q1
-q1,b,q2
-q2,a,q3
-q3,b,q0
+`q0,q1,q2,q3  
+a,b  
+q0  
+q3  
+q0,a,q1  
+q1,b,q2  
+q2,a,q3  
+q3,b,q0  `
 
 
 # Ejemplo de Ejecución
