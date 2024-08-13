@@ -13,12 +13,19 @@ Este DFA se configura a través de un archivo de texto que define:
 Para crear el archivo `dfa.c` en un sistema operativo Linux (como Kali Linux), siga los siguientes pasos:
 
 1. Abra una nueva terminal presionando `Ctrl + Alt + T`.  
+
 2. Ingrese el comando `nano nombre_del_archivo` (en este caso, use `nano dfa.c`) y presione Enter.  
+
 3. Se abrirá un editor de texto. Copie el código del archivo `dfa.c` (disponible en el repositorio) en el editor.  
+
 4. Dado que en algunas distribuciones de Linux los comandos `Ctrl + C` y `Ctrl + V` pueden no funcionar para copiar y pegar, se recomienda seleccionar el código del archivo `dfa.c` manteniendo presionado el botón izquierdo del mouse. Una vez seleccionado el código, copie el contenido haciendo clic derecho y eligiendo la opción "Copiar".  
+
 5. Con el código copiado al portapapeles, vuelva a la terminal abierta y pegue el código presionando clic derecho y seleccionando "Pegar".  
+
 6. Para guardar el archivo en el editor, presione `Ctrl + O`. Aparecerá una confirmación en la parte inferior con el nombre del archivo a guardar. Presione Enter para confirmar.  
-7. La terminal mostrará una confirmación de la cantidad de líneas escritas en el archivo. Una vez verificado, presione `Ctrl + X` para salir del editor de texto.
+
+7. La terminal mostrará una confirmación de la cantidad de líneas escritas en el archivo. Una vez verificado, presione `Ctrl + X` para salir del editor de texto.  
+
 8. 8. El archivo `dfa.c` estará ahora creado y listo para su uso.
 
 # Guía para la Creación del Archivo `ejemplo1.txt` (archivo de configuracion)
