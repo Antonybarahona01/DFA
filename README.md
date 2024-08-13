@@ -31,7 +31,7 @@ Para crear el archivo `dfa.c` en un sistema operativo Linux (como Kali Linux), s
 
 7. La terminal mostrará una confirmación de la cantidad de líneas escritas en el archivo. Una vez verificado, presione `Ctrl + X` para salir del editor de texto.  
 
-8. 8. El archivo `dfa.c` estará ahora creado y listo para su uso.
+8. El archivo `dfa.c` estará ahora creado y listo para su uso.
 
 # Guía para la Creación del Archivo `ejemplo1.txt` (archivo de configuracion)
 
