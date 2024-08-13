@@ -23,6 +23,9 @@ Para crear el archivo `dfa.c` en un sistema operativo Linux (como Kali Linux), s
 
 # Archivo de Configuración
 
+Ahora crearemos el archivo de configuración .txt, para eso seguiremos pasos similares a la configuración del archivo dfa.c, para ello:  
+1. 
+
 El archivo de configuración debe seguir el siguiente formato:
 
 - Primera línea: conjunto de estados (Q), separados por comas.
